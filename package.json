@@ -46,7 +46,7 @@
     "semver": "^7.3.5",
     "systemjs-webpack-interop": "^2.3.2",
     "yup": "^0.29.1",
-    "@openmrs/esm-framework": "next"
+    "@openmrs/esm-framework": "4.0.1"
   },
   "peerDependencies": {
     "@openmrs/esm-framework": "3.x",
@@ -63,7 +63,7 @@
     "@babel/preset-react": "^7.0.0",
     "@babel/preset-typescript": "^7.3.3",
     "@babel/runtime": "^7.17.8",
-    "@openmrs/esm-framework": "^3.2.1-pre.1055",
+    "@openmrs/esm-framework": "^4.0.1",
     "@openmrs/esm-patient-common-lib": "^3.1.1-pre.1346",
     "@testing-library/dom": "^7.20.0",
     "@testing-library/jest-dom": "^5.16.3",
